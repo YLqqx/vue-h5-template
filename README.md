@@ -1,1 +1,1 @@
-# vue-h5-template
+# Staking-frontend
